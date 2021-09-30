@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .list {
+    list-style: none;
+  }
+  .button-one {
+    background-color: white;
+    padding: 1rem 1.5rem;
+    border-radius: 2rem;
+    margin-right: 1rem;
+  }
+  .welcome {
+    padding: 1rem 4rem;
+    background-color: aqua;
+  }
+  .music-list {
+    background-color: aqua;
+    padding: 1rem;
+  }
+  .app {
+    background-color: #f3f4f6;
+  }
